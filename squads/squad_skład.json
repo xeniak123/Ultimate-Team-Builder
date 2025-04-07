@@ -1,0 +1,87 @@
+{
+    "manager": {
+        "name": "Thomas Tuchel",
+        "type": "manager",
+        "nationality": "Germany",
+        "league": "Bundesliga"
+    },
+    "players": {
+        "CM2": {
+            "name": "Dusan Vlahovic",
+            "position": "LM",
+            "rating": 84,
+            "nationality": "Brazil",
+            "league": "Premier League"
+        },
+        "RB": {
+            "name": "Andrew Robertson",
+            "position": "CAM",
+            "rating": 85,
+            "nationality": "Brazil",
+            "league": "Ligue 1"
+        },
+        "CB2": {
+            "name": "Gavi",
+            "position": "LW",
+            "rating": 91,
+            "nationality": "Belgium",
+            "league": "Serie A"
+        },
+        "CM1": {
+            "name": "Pedri",
+            "position": "LW",
+            "rating": 92,
+            "nationality": "Argentina",
+            "league": "La Liga"
+        },
+        "LB": {
+            "name": "Jo\u00e3o Cancelo",
+            "position": "RM",
+            "rating": 90,
+            "nationality": "Germany",
+            "league": "Premier League"
+        },
+        "LM": {
+            "name": "Thibaut Courtois",
+            "position": "CDM",
+            "rating": 82,
+            "nationality": "England",
+            "league": "Bundesliga"
+        },
+        "GK": {
+            "name": "Jude Bellingham",
+            "position": "ST",
+            "rating": 87,
+            "nationality": "Belgium",
+            "league": "Serie A"
+        },
+        "CB1": {
+            "name": "Toni Kroos",
+            "position": "LB",
+            "rating": 84,
+            "nationality": "Brazil",
+            "league": "Serie A"
+        },
+        "ST2": {
+            "name": "Paulo Dybala",
+            "position": "RM",
+            "rating": 86,
+            "nationality": "England",
+            "league": "Ligue 1"
+        },
+        "RM": {
+            "name": "Sadio Man\u00e9",
+            "position": "CDM",
+            "rating": 83,
+            "nationality": "Netherlands",
+            "league": "Premier League"
+        },
+        "ST1": {
+            "name": "Marc-Andr\u00e9 ter Stegen",
+            "position": "RB",
+            "rating": 89,
+            "nationality": "Spain",
+            "league": "Ligue 1"
+        }
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "players": [
+        {
+            "name": "Lionel Messi",
+            "position": "RW",
+            "rating": 91,
+            "nationality": "Argentina",
+            "league": "MLS"
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "position": "ST",
+            "rating": 88,
+            "nationality": "Portugal",
+            "league": "Saudi Pro League"
+        },
+        {
+            "name": "Kylian Mbappé",
+            "position": "ST",
+            "rating": 91,
+            "nationality": "France",
+            "league": "Ligue 1"
+        },
+        {
+            "name": "Erling Haaland",
+            "position": "ST",
+            "rating": 91,
+            "nationality": "Norway",
+            "league": "Premier League"
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "position": "CM",
+            "rating": 91,
+            "nationality": "Belgium",
+            "league": "Premier League"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "position": "ST",
+            "rating": 90,
+            "nationality": "Poland",
+            "league": "La Liga"
+        },
+        {
+            "name": "Neymar Jr",
+            "position": "LW",
+            "rating": 89,
+            "nationality": "Brazil",
+            "league": "Saudi Pro League"
+        },
+        {
+            "name": "Virgil van Dijk",
+            "position": "CB",
+            "rating": 89,
+            "nationality": "Netherlands",
+            "league": "Premier League"
+        },
+        {
+            "name": "Luka Modrić",
+            "position": "CM",
+            "rating": 88,
+            "nationality": "Croatia",
+            "league": "La Liga"
+        },
+        {
+            "name": "Karim Benzema",
+            "position": "ST",
+            "rating": 90,
+            "nationality": "France",
+            "league": "Saudi Pro League"
+        },
+        {
+            "name": "Mohamed Salah",
+            "position": "RW",
+            "rating": 89,
+            "nationality": "Egypt",
+            "league": "Premier League"
+        },
+        {
+            "name": "Harry Kane",
+            "position": "ST",
+            "rating": 90,
+            "nationality": "England",
+            "league": "Bundesliga"
+        },
+        {
+            "name": "Bruno Fernandes",
+            "position": "CAM",
+            "rating": 88,
+            "nationality": "Portugal",
+            "league": "Premier League"
+        },
+        {
+            "name": "Toni Kroos",
+            "position": "CM",
+            "rating": 88,
+            "nationality": "Germany",
+            "league": "La Liga"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "position": "CDM",
+            "rating": 88,
+            "nationality": "Germany",
+            "league": "Bundesliga"
+        },
+        {
+            "name": "Sadio Mané",
+            "position": "LW",
+            "rating": 86,
+            "nationality": "Senegal",
+            "league": "Saudi Pro League"
+        },
+        {
+            "name": "Vinícius Júnior",
+            "position": "LW",
+            "rating": 89,
+            "nationality": "Brazil",
+            "league": "La Liga"
+        },
+        {
+            "name": "Rúben Dias",
+            "position": "CB",
+            "rating": 89,
+            "nationality": "Portugal",
+            "league": "Premier League"
+        },
+        {
+            "name": "Thibaut Courtois",
+            "position": "GK",
+            "rating": 90,
+            "nationality": "Belgium",
+            "league": "La Liga"
+        },
+        {
+            "name": "Jan Oblak",
+            "position": "GK",
+            "rating": 89,
+            "nationality": "Slovenia",
+            "league": "La Liga"
+        },
+        {
+            "name": "Marc-André ter Stegen",
+            "position": "GK",
+            "rating": 90,
+            "nationality": "Germany",
+            "league": "La Liga"
+        },
+        {
+            "name": "Alisson Becker",
+            "position": "GK",
+            "rating": 89,
+            "nationality": "Brazil",
+            "league": "Premier League"
+        },
+        {
+            "name": "João Cancelo",
+            "position": "RB",
+            "rating": 86,
+            "nationality": "Portugal",
+            "league": "La Liga"
+        },
+        {
+            "name": "Achraf Hakimi",
+            "position": "RB",
+            "rating": 85,
+            "nationality": "Morocco",
+            "league": "Ligue 1"
+        },
+        {
+            "name": "Jude Bellingham",
+            "position": "CM",
+            "rating": 89,
+            "nationality": "England",
+            "league": "La Liga"
+        },
+        {
+            "name": "Pedri",
+            "position": "CM",
+            "rating": 86,
+            "nationality": "Spain",
+            "league": "La Liga"
+        },
+        {
+            "name": "Gavi",
+            "position": "CM",
+            "rating": 85,
+            "nationality": "Spain",
+            "league": "La Liga"
+        },
+        {
+            "name": "Phil Foden",
+            "position": "CAM",
+            "rating": 86,
+            "nationality": "England",
+            "league": "Premier League"
+        },
+        {
+            "name": "Bukayo Saka",
+            "position": "RW",
+            "rating": 86,
+            "nationality": "England",
+            "league": "Premier League"
+        },
+        {
+            "name": "Declan Rice",
+            "position": "CDM",
+            "rating": 86,
+            "nationality": "England",
+            "league": "Premier League"
+        },
+        {
+            "name": "Eduardo Camavinga",
+            "position": "CM",
+            "rating": 84,
+            "nationality": "France",
+            "league": "La Liga"
+        },
+        {
+            "name": "Frenkie de Jong",
+            "position": "CM",
+            "rating": 87,
+            "nationality": "Netherlands",
+            "league": "La Liga"
+        },
+        {
+            "name": "Christian Pulisic",
+            "position": "RW",
+            "rating": 82,
+            "nationality": "USA",
+            "league": "Serie A"
+        },
+        {
+            "name": "Sergiño Dest",
+            "position": "RB",
+            "rating": 76,
+            "nationality": "USA",
+            "league": "Eredivisie"
+        },
+        {
+            "name": "Giovanni Reyna",
+            "position": "CAM",
+            "rating": 78,
+            "nationality": "USA",
+            "league": "Premier League"
+        },
+        {
+            "name": "Rafael Leão",
+            "position": "LW",
+            "rating": 86,
+            "nationality": "Portugal",
+            "league": "Serie A"
+        },
+        {
+            "name": "Antoine Griezmann",
+            "position": "CAM",
+            "rating": 87,
+            "nationality": "France",
+            "league": "La Liga"
+        },
+        {
+            "name": "Ousmane Dembélé",
+            "position": "RW",
+            "rating": 85,
+            "nationality": "France",
+            "league": "Ligue 1"
+        },
+        {
+            "name": "Serge Gnabry",
+            "position": "RW",
+            "rating": 83,
+            "nationality": "Germany",
+            "league": "Bundesliga"
+        },
+        {
+            "name": "Mason Mount",
+            "position": "CAM",
+            "rating": 80,
+            "nationality": "England",
+            "league": "Premier League"
+        },
+        {
+            "name": "Kai Havertz",
+            "position": "CAM",
+            "rating": 82,
+            "nationality": "Germany",
+            "league": "Premier League"
+        },
+        {
+            "name": "Jadon Sancho",
+            "position": "LW",
+            "rating": 82,
+            "nationality": "England",
+            "league": "Bundesliga"
+        },
+        {
+            "name": "Marco Verratti",
+            "position": "CM",
+            "rating": 84,
+            "nationality": "Italy",
+            "league": "Qatar Stars League"
+        },
+        {
+            "name": "Nicolo Barella",
+            "position": "CM",
+            "rating": 86,
+            "nationality": "Italy",
+            "league": "Serie A"
+        },
+        {
+            "name": "Romelu Lukaku",
+            "position": "ST",
+            "rating": 84,
+            "nationality": "Belgium",
+            "league": "Serie A"
+        },
+        {
+            "name": "Angel Di Maria",
+            "position": "RW",
+            "rating": 84,
+            "nationality": "Argentina",
+            "league": "Primeira Liga"
+        },
+        {
+            "name": "Dusan Vlahovic",
+            "position": "ST",
+            "rating": 84,
+            "nationality": "Serbia",
+            "league": "Serie A"
+        },
+        {
+            "name": "Paulo Dybala",
+            "position": "CAM",
+            "rating": 86,
+            "nationality": "Argentina",
+            "league": "Serie A"
+        },
+        {
+            "name": "Trent Alexander-Arnold",
+            "position": "RB",
+            "rating": 86,
+            "nationality": "England",
+            "league": "Premier League"
+        },
+        {
+            "name": "Andrew Robertson",
+            "position": "LB",
+            "rating": 85,
+            "nationality": "Scotland",
+            "league": "Premier League"
+        }
+    ],
+    "managers": [
+        {
+            "name": "Pep Guardiola",
+            "type": "manager",
+            "nationality": "Spain",
+            "league": "Premier League",
+            "team": "Manchester City"
+        },
+        {
+            "name": "Carlo Ancelotti",
+            "type": "manager",
+            "nationality": "Italy",
+            "league": "La Liga",
+            "team": "Real Madrid"
+        },
+        {
+            "name": "Jürgen Klopp",
+            "type": "manager",
+            "nationality": "Germany",
+            "league": "Premier League",
+            "team": "Liverpool"
+        },
+        {
+            "name": "Simone Inzaghi",
+            "type": "manager",
+            "nationality": "Italy",
+            "league": "Serie A",
+            "team": "Inter Milan"
+        },
+        {
+            "name": "Luis Enrique",
+            "type": "manager",
+            "nationality": "Spain",
+            "league": "Ligue 1",
+            "team": "Paris Saint-Germain"
+        },
+        {
+            "name": "Xavi",
+            "type": "manager",
+            "nationality": "Spain",
+            "league": "La Liga",
+            "team": "Barcelona"
+        },
+        {
+            "name": "Mikel Arteta",
+            "type": "manager",
+            "nationality": "Spain",
+            "league": "Premier League",
+            "team": "Arsenal"
+        },
+        {
+            "name": "Thomas Tuchel",
+            "type": "manager",
+            "nationality": "Germany",
+            "league": "Bundesliga",
+            "team": "Bayern Munich"
+        },
+        {
+            "name": "Erik ten Hag",
+            "type": "manager",
+            "nationality": "Netherlands",
+            "league": "Premier League",
+            "team": "Manchester United"
+        },
+        {
+            "name": "Mauricio Pochettino",
+            "type": "manager",
+            "nationality": "Argentina",
+            "league": "Premier League",
+            "team": "Chelsea"
+        }
+    ]
+}
